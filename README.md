@@ -1,5 +1,3 @@
-
-
 ## Giới thiệu
 FarmLife - Một tựa game 2d đơn giản được viết bằng C++ và SFML.
 
@@ -15,13 +13,16 @@ FarmLife - Một tựa game 2d đơn giản được viết bằng C++ và SFML.
    ```
 2. Mở project bằng Visual Studio 2022.
 3. Ở góc trên bên phải Debug Target, chọn mục farm-life.exe
+
+![](resources/ScreenShot/exefile.png)
+
 4. Nhấn F5 / Start để chạy chương trình.
 
 ## Demo
-[![Demo Video](https://img.youtube.com/vi/E4SPsTB0dOY/maxresdefault.jpg)](https://www.youtube.com/watch?v=E4SPsTB0dOY)
+[![](resources/ScreenShot/thumbnail.png)](https://www.youtube.com/watch?v=E4SPsTB0dOY)
 
 ## License
-This project is licensed under the MIT License — see the []() file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 ## Contact
 Nếu có câu hỏi thắc mắc về project hoặc cách cài đặt vui lòng liên hệ:
 **Nguyễn Tiến Đạt**
